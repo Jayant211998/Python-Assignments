@@ -1,0 +1,9 @@
+n=int(input())
+while(n>0):
+    i=input("wholesale price ")
+    if "-" in i:
+        print("error ")
+        continue
+        #i=i.replace('-','0')
+    print("retail price ",float(i)*(0.5))
+    n-=1

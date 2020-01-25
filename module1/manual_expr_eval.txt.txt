@@ -1,0 +1,21 @@
+
+Question 2: Evaluate the folowing expression 
+1.
+  a=4, b=2, x=5, y=4
+  result= 5*b*b*x-3*a*y*y-8*b*b*x+10*a*y
+  result=5*2*2*5-3*4*4*4-8*2*2*5+10*4*4
+  result=100-192-160+160
+  result=-92
+2.
+  a=2 ,y=3 ,c=7
+  calc=4*a*y/c-a*y/c
+  calc=4*2*3/7-2*3/7
+  calc=24/7-6/7
+  calc=3.428571428571429‬-0.8571428571428571‬
+  calc=2.571428571428
+3.
+  a=4.4,b=0.0,c=4.2,y=3.0
+  ans=c+a*y*y/b
+ Output:ZeroDevisionError
+  
+  

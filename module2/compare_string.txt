@@ -1,0 +1,5 @@
+Ques 1:
+	z is not less than a.
+Ques 2:
+	Boston
+	New York
